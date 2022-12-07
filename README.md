@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [gophercises](https://gophercises.com/)
 
-- 🌱 I’m currently learning **Golang, React**
+- 🌱 I’m currently learning **Golang, React, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabyasachi4943](https://github.com/sabyasachi4943)
 
-- 📫 How to reach me **sabyasachisarkar001@gmail.com**
+- 📫 How to reach me **sabya4943@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
