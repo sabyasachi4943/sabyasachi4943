@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/_sabyasachi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/_sabyasachi_" height="30" width="40" /></a>
 <a href="https://twitter.com/sabyasachicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabyasachicodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabyasachisarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabyasachisarkar001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabyasachisarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabyasachisarkar001" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sabyasachi.sabyasachi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sabyasachi.sabyasachi/" height="30" width="40" /></a>
 </p>
 
